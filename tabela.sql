@@ -1,0 +1,6 @@
+CREATE TABLE mensagem (
+time TIMESTAMP PRIMARY KEY,
+mensagem VARCHAR(200)
+
+
+)
