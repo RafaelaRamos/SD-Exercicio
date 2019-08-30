@@ -27,3 +27,6 @@ hs_err_pid*
 /PonteI/target/
 /PonteII/target/
 /AppIV/target/
+/AppIII/target/
+/Receive/target/
+/Send/target/
